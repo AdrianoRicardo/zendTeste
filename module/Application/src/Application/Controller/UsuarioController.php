@@ -9,7 +9,7 @@ class UsuarioController extends AbstractActionController{
     /**/
     public function cadastrar(){
         
-        echo 'coisa';
+        echo 'coisa da vida + sempre';
     }
     
 }
